@@ -21,6 +21,7 @@ print("""\033[1;32m
 - Automated Scanner -
 - Tools Install By projectdiscovery.io -
 - Create By ./RedSec A K E Denis -
+- MsecTeam -
 """)
 
 pilihan = input ("Input Your Domain => ")
